@@ -1,0 +1,14 @@
+{
+
+  "version": "6.3.47",
+
+  "url": "https://windows.metasploit.com/metasploit-framework-6.3.47+20231212113358-1rapid7-1-x64.msi",
+
+  "bin": ["msfconsole.exe", "msfdb.exe"],
+
+  "homepage": "https://www.metasploitunleashed.com/",
+
+  "license": "Metasploit Framework License"
+
+}
+
