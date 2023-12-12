@@ -1,0 +1,8 @@
+{
+  "version": "2023.11.1.3",
+  "url": "https://raw.githubusercontent.com/my-bucket/darkarmy_123/main/burpsuite.json",
+  "bin": ["BurpSuiteCommunity.exe"],
+  "homepage": "https://portswigger.net/burp",
+  "license": "Proprietary",
+  "silentArgs": "--mode unattended"
+}
