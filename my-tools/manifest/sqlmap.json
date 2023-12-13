@@ -1,0 +1,14 @@
+{
+  "version": "1.5.0",
+  "homepage": "https://github.com/sqlmapproject/sqlmap",
+  "license": "GPL-2.0",
+  "manifest-type": "app",
+  "url": "https://raw.githubusercontent.com/sqlmapproject/sqlmap/1.5.0/sqlmap.py",
+  "bin": ["sqlmap.py"],
+  "installer": {
+    "script": "python",
+    "url": "https://raw.githubusercontent.com/sqlmapproject/sqlmap/1.5.0/sqlmap.py",
+    "hash": "SHA256-PLACEHOLDER"
+  },
+  "bucket": "my-tools"
+}
